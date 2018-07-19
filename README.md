@@ -1,2 +1,1 @@
-# TrenchTest
-# TrenchTest
+# 渠道包的简单配置# 
